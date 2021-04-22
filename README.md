@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Java-8-e0161a?logo=Java&logoColor=e0161a"/>
+	<img src="https://img.shields.io/badge/Java-13-e0161a?logo=Java&logoColor=e0161a"/>
 	<img src="https://img.shields.io/badge/Python-3.7-326c9c?logo=Python&logoColor=326c9c"/>
 </p>
 
