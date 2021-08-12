@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 -->
 ### 😄个人简介
 
-&emsp;大家好哇，这里是李佳声，目前是作为一名目前还沉浸在毕业压力之下的苦逼研究生(笑)！
+&emsp;大家好哇，这里是李佳声！
 
 ### 📫一些知识盘点
 
-|  项目名字 | 介绍 |                                       
+|  项目名字 | 介绍 |
 |  :----:  | :----:  |
 | Java基础 | [基础的Java知识]() |
 | MySql | [常见数据库问题总结]() |
 | SpringMVC框架 | [SpringMVC源码分析](https://github.com/lijiasheng12333/sprinbmvc-process) |
 | 数据结构与算法 | [常见结构与算法总结]() |
+| 计算机网络 | [一些计网问题]() |
 
 ### 📫易医
 
@@ -47,4 +48,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Windows10--0?style=social&logo=Windows&logoColor=0078D6"/>
 <img src="https://img.shields.io/badge/Centos7--0?style=social&logo=Centos&logoColor=262577"/>
 </p>
-
