@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | MySql | [常见数据库问题总结]() |
 | SpringMVC框架 | [SpringMVC源码分析](https://github.com/lijiasheng12333/sprinbmvc-process) |
 | 数据结构与算法 | [常见结构与算法总结]() |
-| 计算机网络 | [一些计网问题]() |
+| 计算机网络 | [一些计网问题](https://github.com/lijiasheng12333/ComputerNet) |
 
 ### 📫易医
 
